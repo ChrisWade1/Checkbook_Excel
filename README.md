@@ -1,7 +1,7 @@
 # Checkbook_Excel
  Excel Checkbook with buffers
 
-This is a basic checkbook. I tried to keep it as simple as I could but with a couplle of advanced features.
+This is a basic checkbook. I tried to keep it as simple as I could but with a couple of advanced features.
 
 Balance your checkbook before you start.
 
